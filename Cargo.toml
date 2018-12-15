@@ -1,0 +1,9 @@
+[package]
+name = "chromatic"
+version = "0.1.0"
+authors = ["Pazzaz <pazzaz.sundqvist@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+petgraph = "0.4.13"
+hashbrown = "0.1.7"
